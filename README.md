@@ -9,4 +9,5 @@ Slides can be found here: https://www.slideshare.net/AlexandraNahomiMartn/review
 You can copy and paste this transformation code into your own Transform Message component or into the script area for the DW Playground.
 
 Thank you!
+
 -Alex
