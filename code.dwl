@@ -32,7 +32,7 @@ reduce ((flightOption, accumulator=[]) -> do {
     ) else [lastConnection]
     ---
     accumulator + updatedConnections
-    // accumulator + updatedConnections 3.3)
+    // accumulator ++ updatedConnections 3.3)
 })
 // 3.2) flatten the array of arrays to be just one array.
 reduce ((item, accumulator=[]) -> accumulator ++ item)
