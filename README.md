@@ -1,6 +1,6 @@
 # Reviewing a Complex DataWeave Transformation Use-case
 
-Code demonstrated in the presentation "Reviewing a Complex DataWeave Transformation Use-case" by Alexandra Martinez for the MuleSoft Meetups.
+Code demonstrated in the presentation "Reviewing a Complex DataWeave Transformation Use-case" by Alexandra Martinez for the MuleSoft Meetups and MuleSoft CONNECT:Now 2020.
 
 Slides can be found here: https://www.slideshare.net/AlexandraNahomiMartn/reviewing-a-complex-dataweave-transformation-usecase-v2
 
