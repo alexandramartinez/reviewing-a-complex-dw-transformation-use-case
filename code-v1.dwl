@@ -1,3 +1,8 @@
+/**
+*   NOTE: This is old code. For the latest code please check the README
+*/
+
+
 %dw 2.0
 output application/json
 
