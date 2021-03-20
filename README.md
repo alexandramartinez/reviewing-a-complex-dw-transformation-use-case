@@ -2,7 +2,7 @@
 
 Code demonstrated in the presentation "Reviewing a Complex DataWeave Transformation Use-case" by Alexandra Martinez for the MuleSoft Meetups and MuleSoft CONNECT:Now 2020.
 
-There are 2 different versions of the code and 3 different presentations. Please see the [Slides + DW Code Versions](#slides-dw-code-versions) section for more information.
+There are 2 different versions of the code and 3 different presentations. Please see the [Slides + DW Code Versions](#slides--dw-code-versions) section for more information.
 
 ## Slides + DW Code Versions
 
