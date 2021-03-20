@@ -13,21 +13,21 @@ Latest presentation is here: [SlideShare - v3](https://www.slideshare.net/Alexan
 **VERSION 1**
 - Presentation is using an old design.
 - Code still works but latest version has an improved process.
-- Slides for v1 of this presentation can be found in [SlideShare](https://www.slideshare.net/AlexandraNahomiMartn/reviewing-a-complex-dataweave-transformation-usecase).
+- Slides for v1 of this presentation can be found in [SlideShare - v1](https://www.slideshare.net/AlexandraNahomiMartn/reviewing-a-complex-dataweave-transformation-usecase).
 - Code can be found in this file: [code-v1.dwl](code-v1.dwl).
 - This version was presented at the [Monterrey MuleSoft Meetup](https://meetups.mulesoft.com/events/details/mulesoft-monterrey-presents-spanish-meetup-reviewing-a-complex-dataweave-transformation-use-case-by-alexandra-martinez/) (in Spanish) on Sep 3, 2020.
 
 **VERSION 2**
 - Presentation is using the actual design.
 - Code still works but latest version has an improved process.
-- Slides for v2 can be found in [SlideShare](https://www.slideshare.net/AlexandraNahomiMartn/reviewing-a-complex-dataweave-transformation-usecase-v2).
+- Slides for v2 can be found in [SlideShare - v2](https://www.slideshare.net/AlexandraNahomiMartn/reviewing-a-complex-dataweave-transformation-usecase-v2).
 - Code can be found in this file: [code-v1.dwl](code-v1.dwl) (Note that this is the same code from v1).
 - This version was presented at the [Vancouver MuleSoft Meetup](https://meetups.mulesoft.com/events/details/mulesoft-vancouver-presents-reviewing-dataweave-transformation/) on Nov 19, 2020.
 
 **VERSION 3**
 - Presentation is using the actual design and is updated to reflect the new code.
 - Code is updated to an improved process.
-- Slides for v3 can be found in [SlideShare](https://www.slideshare.net/AlexandraNahomiMartn/reviewing-a-complex-dataweave-transformation-use-case-v3).
+- Slides for v3 can be found in [SlideShare - v3](https://www.slideshare.net/AlexandraNahomiMartn/reviewing-a-complex-dataweave-transformation-use-case-v3).
 - Code can be found in this file: [code-v2.dwl](code-v2.dwl).
 
 ## More Info
