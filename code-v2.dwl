@@ -62,6 +62,13 @@ addIndexTailRecursive( // 4) Once we get the desired array of objects, call the 
     // sum(254) works but sum(255) fails
 */
 
+/* EXAMPLE OF *TAIL* RECURSIVE FUNCTION
+    fun sumtail(number: Number, result: Number = 0) = 
+    if (number > 0) 
+        sumtail(number - 1, result + number)
+    else result
+*/
+
 /* SCRIPT TO GENERATE ANY NUMBER OF CONNECTIONS FOR TESTING PURPOSES (To make sure that StackOverflow error doesn't appear)
     {
         FlightOptions: [
