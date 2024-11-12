@@ -8,6 +8,11 @@ Latest code is here: [code-v2.dwl](code-v2.dwl)
 
 Latest presentation is here: [SlideShare - v3](https://www.slideshare.net/AlexandraNahomiMartn/reviewing-a-complex-dataweave-transformation-use-case-v3)
 
+## Similar repos
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=react)](https://github.com/alexandramartinez/dataweave-scripts)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-challenges&theme=react)](https://github.com/alexandramartinez/dataweave-challenges)
+
 ## Slides + DW Code Versions
 
 **VERSION 1**
